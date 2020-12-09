@@ -18,9 +18,11 @@
 ➡️ **链接**
 
 * [Obsidian官网](https://obsidian.md/)
+* [**中文帮助文档**-过时-待更新](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
+* [**ob教程** @社区成员-落山鸡](https://publish.obsidian.md/chinesehelp)
 
 
 ✏️ **社区计划**
 
 - [ ] 在Obsidian 1.0 版本发布时，将[英文帮助文档](https://github.com/obsidianmd/obsidian-translations)翻译为中文。
-- [ ] [更多的社区志愿者](https://github.com/obsidianzh/forum/discussions/3)
+- [ ] [招募更多的社区志愿者](https://github.com/obsidianzh/forum/discussions/3)
