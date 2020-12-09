@@ -1,5 +1,11 @@
 # Obsidian中文社区
 ## 👋 欢迎！
+
+### 新手入门
+* [**官方英文帮助文档**](https://publish.obsidian.md/help)
+* [**中文帮助文档**-过时-待更新](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
+* [**ob教程** @社区成员-落山鸡](https://publish.obsidian.md/chinesehelp)
+
 ### [点击这里进入中文论坛-Discussions](https://github.com/obsidianzh/forum/discussions)
   我们使用 Github Discussions 作为中文社区的论坛，我们希望你
 * 在这里提问
@@ -18,8 +24,7 @@
 ➡️ **链接**
 
 * [Obsidian官网](https://obsidian.md/)
-* [**中文帮助文档**-过时-待更新](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
-* [**ob教程** @社区成员-落山鸡](https://publish.obsidian.md/chinesehelp)
+
 
 
 ✏️ **社区计划**
