@@ -12,6 +12,7 @@
 
 如果希望有"即时交流"，可以加入
 * obsidian 微信群（扫描二维码加个人微信，空闲时会拉你进群）
+
 ![obsidian-wechat](https://user-images.githubusercontent.com/18050469/102009356-e6571e80-3d71-11eb-8397-cdc8e0d42bf6.jpg)
 
 * Q群：774176839，不过由于人数限制，这个群会定时清退发言较少的人。
