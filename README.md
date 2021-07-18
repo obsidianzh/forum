@@ -24,5 +24,5 @@
 
 ✏️ **社区计划**
 
-- [ ] 在Obsidian 1.0 版本发布时，将[英文帮助文档](https://github.com/obsidianmd/obsidian-translations)翻译为中文。
-- [ ] [招募更多的社区志愿者](https://github.com/obsidianzh/forum/discussions/3)
+- [x] 在Obsidian 1.0 版本发布时，将[英文帮助文档](https://github.com/obsidianmd/obsidian-translations)翻译为中文。已集成到 obsidian 帮助文档中了
+
